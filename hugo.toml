@@ -8,7 +8,7 @@ paginate = 5
 contentTypeName = "post"
 
 # ["orange", "blue", "red", "green", "pink"]
-themeColor = "orange"
+themeColor = "green"
 
 # if you set this to 0, only submenu trigger will be visible
 showMenuItems = 4
@@ -37,7 +37,7 @@ creator = "kidrigger"
 site = ""
 
 [languages]
-[languages.en]
+[languages.en.params]
 languageName = "English"
 title = "Bob's Terminal"
 subtitle = "Here's me nerding out."
